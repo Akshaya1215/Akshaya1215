@@ -14,9 +14,6 @@
 ---
 <table align="center">
   <tr>
-    <td width="160px">
-      <img width="275" height="497" alt="image" src="https://github.com/user-attachments/assets/e9db1d94-d51e-4841-bb34-3044343fb45a" />
-    </td>
     <td>
 
 🧠 Building AI + Web/App systems that solve real human problems
